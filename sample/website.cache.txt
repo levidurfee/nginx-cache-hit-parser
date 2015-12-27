@@ -1,0 +1,4 @@
+GET /index.php MISS 5555 0.008
+GET /index.php HIT 5545 0.000
+GET /index.php HIT 5545 0.000
+GET /index.php HIT 5545 0.000
