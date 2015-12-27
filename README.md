@@ -38,3 +38,12 @@ echo "Website\n";
 $c = new levidurfee\fcgiCacheAnalyze('sample' . DIRECTORY_SEPARATOR . 'website.cache.txt');
 $c->analyze();
 ```
+
+## sample output
+
+```bash
+Website
+| Page                 | HITS  | MISS  | EXPIR | TIME  | RATIO
+| /index.php           | 55    | 18    | 3     | 0.005 | 72.36
+
+```
