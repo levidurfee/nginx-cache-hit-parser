@@ -1,5 +1,8 @@
 # nginx-cache-hit-parser
 
+[![Build Status](https://travis-ci.org/levidurfee/nginx-cache-hit-parser.svg?branch=master)](https://travis-ci.org/levidurfee/nginx-cache-hit-parser)
+[![build v0.1.0](https://img.shields.io/badge/build-0.1.0-orange.svg?style=flat)]()
+
 Parse a nginx FastCGI cache hit log file.
 
 ## nginx config
